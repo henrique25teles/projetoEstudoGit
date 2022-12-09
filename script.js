@@ -4,4 +4,5 @@ function teste() {
 
 function teste2() {
     var o = 2;
+    var u = 'j';
 }
