@@ -7,3 +7,7 @@ body {
 .painel {
   color: yellow;
 }
+
+.novo {
+  flex: 1;
+}
