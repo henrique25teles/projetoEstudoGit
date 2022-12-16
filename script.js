@@ -7,3 +7,7 @@ function teste2() {
     var o = 2;
     var u = 'j';
 }
+
+function teste3() {
+    var ui = '18'
+}
