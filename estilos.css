@@ -11,3 +11,17 @@ body {
 .novo {
   flex: 1;
 }
+
+body {
+  color: red;
+  background-color:blue;
+  background-color:blue;
+}
+
+.painel {
+  color: yellow;
+}
+
+.novo {
+  flex: 1;
+}
